@@ -135,7 +135,7 @@ Real-Time Speed: 15–20 FPS on GPU
 ├── alarm.wav
 ├── images/
 │   └── A_flowchart_diagram_illustrates_an_Ultra-Accuracy_.png
-└── README.md
+└── README
 
 ⚠️ Tips & Troubleshooting
 
