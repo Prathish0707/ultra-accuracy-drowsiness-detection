@@ -81,12 +81,12 @@ Future Improvements
 - **Classes**: `Awake` and `Drowsy`  
 - **Dataset Structure**:
 
-text
-dataset/
-├── images/
-│   ├── awake/
-│   └── drowsy/
-└── labels/
+##text
+`dataset/`
+`├── images/`
+`│   ├── awake/`
+`│   └── drowsy/`
+`└── labels/`
 
 ## 🧠 System Architecture
 
