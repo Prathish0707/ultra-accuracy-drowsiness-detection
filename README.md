@@ -10,15 +10,18 @@ Designed for **high accuracy, low false alarms**, and **real-world deployment re
 
 ## 📌 Table of Contents
 
-Features  
-System Architecture  
-Dataset Used  
-Installation & Setup  
-Training & Testing  
-Metrics & Performance  
-Project Folder Structure  
-Tips & Troubleshooting  
-Future Improvements
+## 📌 Table of Contents
+
+🚀 **Features**  
+🧠 **System Architecture**  
+🗂️ **Dataset Used**  
+⚙️ **Installation & Setup**  
+💻 **Training & Testing**  
+📈 **Metrics & Performance**  
+📂 **Project Folder Structure**  
+⚠️ **Tips & Troubleshooting**  
+🌟 **Future Improvements**
+
 
 
 ## 📌 Features
