@@ -90,4 +90,14 @@ dataset/
 
 ## 🧠 System Architecture
 
-The system follows a modular real-time pipeline for **accuracy, stability, and low false alarms**.
+The system follows a modular real-time pipeline for **accuracy, stability, and low false alarms**
+
+## 🎯 Installation & Setup
+
+1️⃣ Clone YOLOv5 repo:
+
+```bash
+git clone https://github.com/ultralytics/yolov5.git
+cd yolov5
+pip install -r requirements.txt
+
