@@ -8,6 +8,19 @@ Designed for **high accuracy, low false alarms**, and **real-world deployment re
 
 ---
 
+## 📌 Table of Contents
+
+Features  
+System Architecture  
+Dataset Used  
+Installation & Setup  
+Training & Testing  
+Metrics & Performance  
+Project Folder Structure  
+Tips & Troubleshooting  
+Future Improvements
+
+
 ## 📌 Features
 
 ✅ Real-time face & drowsiness detection  
@@ -21,12 +34,6 @@ Designed for **high accuracy, low false alarms**, and **real-world deployment re
 ✅ Clean Jupyter Notebook implementation  
 
 ---
-
-## 🧠 System Architecture
-
-The system follows a modular real-time pipeline for **accuracy, stability, and low false alarms**.
-
-### 🔄 Workflow Diagram
 
 
 ### 🧩 Component Details
@@ -74,16 +81,13 @@ The system follows a modular real-time pipeline for **accuracy, stability, and l
 - **Classes**: `Awake` and `Drowsy`  
 - **Dataset Structure**:
 
-## 🎯 Installation & Setup
+```text
+dataset/
+├── images/
+│   ├── awake/
+│   └── drowsy/
+└── labels/
 
-1. Clone YOLOv5 repo:
+## 🧠 System Architecture
 
-```bash
-git clone https://github.com/ultralytics/yolov5.git
-cd yolov5
-
-pip install -r requirements.txt
-
-pip install opencv-python torch numpy sort-python
-
-jupyter notebook Driver_Drowsiness_Detection.ipynb
+The system follows a modular real-time pipeline for **accuracy, stability, and low false alarms**.
