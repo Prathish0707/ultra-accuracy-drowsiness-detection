@@ -1,36 +1,25 @@
-# 🚗 Ultra-Accuracy Drowsiness Detection System (Jupyter Notebook)
+# 🚗 Ultra-Accuracy Driver Drowsiness Detection System
 
-This project demonstrates a **real-time drowsiness detection system** using:
-- YOLOv5 (custom trained)
-- SORT tracking
-- Temporal confidence smoothing
-- EMA bounding box stabilization
-- Robust alarm logic
+An advanced **real-time driver drowsiness detection system** using  
+**YOLOv5 + SORT Tracking + Temporal Smoothing + EMA Bounding Boxes + Robust Alarm Logic**.
 
-The entire implementation is provided as a **step-by-step Jupyter Notebook**, making it easy to recreate.
+This project is designed for **high accuracy, low false alarms**, and **real-world deployment readiness**.
 
 ---
 
-## 📁 Project Files
+## 📌 Features
 
-- `ultra_accuracy_drowsiness_detection.ipynb` → Main notebook (run step by step)
-- `sort.py` → SORT tracking algorithm
-- `requirements.txt` → Required Python packages
-
----
-
-## 🖥️ System Requirements
-
-- Windows OS (recommended)
-- Python 3.8 – 3.10
-- Webcam
-- Git installed
+✅ Real-time face & drowsiness detection  
+✅ YOLOv5 custom-trained model  
+✅ SORT multi-object tracking  
+✅ Temporal confidence smoothing  
+✅ EMA bounding box stabilization  
+✅ Sustained-frame alarm logic (no false alerts)  
+✅ Multi-person support  
+✅ Works directly on webcam feed  
+✅ Clean Jupyter Notebook implementation  
 
 ---
 
-## ⚙️ STEP-BY-STEP SETUP (VERY IMPORTANT)
+## 🧠 System Architecture
 
-### ✅ Step 1: Clone the repository
-```bash
-git clone https://github.com/Prathish0707/ultra-accuracy-drowsiness-detection.git
-cd ultra-accuracy-drowsiness-detection
