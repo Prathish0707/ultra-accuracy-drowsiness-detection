@@ -10,8 +10,6 @@ Designed for **high accuracy, low false alarms**, and **real-world deployment re
 
 ## 📌 Table of Contents
 
-## 📌 Table of Contents
-
 🚀 **Features**  
 🧠 **System Architecture**  
 🗂️ **Dataset Used**  
